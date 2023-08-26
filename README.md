@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-<!--
+<img src="https://www.codewars.com/users/VillageR./badges/large"> 
+ <!--
 **VillageR88/VillageR88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
