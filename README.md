@@ -3,6 +3,8 @@
   <img src="https://www.codewars.com/users/VillageR./badges/large" alt="CodeWars Badge">
 </a>
 
+### <a href="https://villager88.github.io/" target="_blank">My html repository</a>
+
  <!--
 **VillageR88/VillageR88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
