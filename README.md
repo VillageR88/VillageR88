@@ -6,8 +6,15 @@
 
 
 Unfortunately, I cannot share it with you because it contains sensitive data. However, I can show you a few things from it:
-<div><a>Click on image to see animation</a></div>
+<table>
+        <tr>
+           <td><img src="https://github.com/VillageR88/VillageR88/blob/main/projekt_pic1.jpg"></a></td>
+           <td><img src="https://github.com/VillageR88/VillageR88/blob/main/projekt_pic2.jpg"></a></td>
+           <td><img src="https://github.com/VillageR88/VillageR88/blob/main/projekt_pic3.jpg"></a></td>
+        </tr>
+    </table>
    <table>
+      <div><a>Click on image to see animation</a></div>
         <tr>
            <td><a href="https://github.com/VillageR88/VillageR88/blob/main/AGM-65.gif" target="_blank"><img src="https://github.com/VillageR88/VillageR88/blob/main/AGM-65.jpg" alt="Animowany obrazek"></a></td>
            <td><a href="https://github.com/VillageR88/VillageR88/blob/main/GBU 12.gif" target="_blank"><img src="https://github.com/VillageR88/VillageR88/blob/main/GBU 12.jpg" alt="Animowany obrazek"></a></td>
