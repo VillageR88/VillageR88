@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning computer programming (HTML, CSS, JS, TS), and I'm being mentored by my <a href="https://github.com/karniv00l/" target="_blank">friend.
+🌱 I’m currently learning computer programming (HTML, CSS, JS, TS) and I'm being mentored by my <a href="https://github.com/karniv00l/" target="_blank">friend.
 <div></div>
 ⚡ In year 2012 I did C# and XNA framework application called "A project of an application for computer support for the teaching process of the F-16C/D aircraft." as my master thesis.
 Unfortunately, I cannot share it with you because it contains sensitive data.
