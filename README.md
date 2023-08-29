@@ -6,8 +6,14 @@
 Unfortunately, I cannot share it with you because it contains sensitive data. However, I can show you a few things from it:
    <table>
         <tr>
-          <td><img src="https://github.com/VillageR88/VillageR88/blob/main/AGM-65.gif" alt="Animowany obrazek"></td>
-          <td><img src="https://github.com/VillageR88/VillageR88/blob/main/GBU 12.gif" alt="Animowany obrazek"></td></tr>
+           <td><img src="https://github.com/VillageR88/VillageR88/blob/main/AGM-65.gif" alt="Animowany obrazek"></td>
+           <td><img src="https://github.com/VillageR88/VillageR88/blob/main/GBU 12.gif" alt="Animowany obrazek"></td>
+           <td><img src="https://github.com/VillageR88/VillageR88/blob/main/GBU 24.gif" alt="Animowany obrazek"></td>
+        </tr>
+      <tr>
+           <td><img src="https://github.com/VillageR88/VillageR88/blob/main/AIM-120.gif" alt="Animowany obrazek"></td>
+           <td><img src="https://github.com/VillageR88/VillageR88/blob/main/AIM-9.gif" alt="Animowany obrazek"></td>
+      </tr>
     </table>
 
 ### <a href="https://villager88.github.io/" target="_blank">My html repository</a>
