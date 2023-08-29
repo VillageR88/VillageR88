@@ -6,7 +6,7 @@
 
 
 Unfortunately, I cannot share it with you because it contains sensitive data. However, I can show you a few things from it:
-<div><a>Click on images to see animation</a></div>
+<div><a>Click on image to see animation</a></div>
    <table>
         <tr>
            <td><a href="https://github.com/VillageR88/VillageR88/blob/main/AGM-65.gif" target="_blank"><img src="https://github.com/VillageR88/VillageR88/blob/main/AGM-65.jpg" alt="Animowany obrazek"></a></td>
