@@ -14,8 +14,8 @@ Unfortunately, I cannot share it with you because it contains sensitive data. Ho
            <td><a href="https://github.com/VillageR88/VillageR88/blob/main/GBU 24.gif" target="_blank"><img src="https://github.com/VillageR88/VillageR88/blob/main/GBU 24.jpg" alt="Animowany obrazek"></a></td>
         </tr>
         <tr>
-            <td><img src="https://github.com/VillageR88/VillageR88/blob/main/AIM-120.gif" alt="Animowany obrazek" class="stopped"></td>
-            <td><img src="https://github.com/VillageR88/VillageR88/blob/main/AIM-9.gif" alt="Animowany obrazek" class="stopped"></td>
+           <td><a href="https://github.com/VillageR88/VillageR88/blob/main/AIM-120.gif" target="_blank"><img src="https://github.com/VillageR88/VillageR88/blob/main/AIM-120.jpg" alt="Animowany obrazek"></a></td>
+           <td><a href="https://github.com/VillageR88/VillageR88/blob/main/AIM-9.gif" target="_blank"><img src="https://github.com/VillageR88/VillageR88/blob/main/AIM-9.jpg" alt="Animowany obrazek"></a></td>
         </tr>
     </table>
 
