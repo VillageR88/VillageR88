@@ -4,10 +4,7 @@
 
 🌱 I’m also doing some C# kata at the <a href="https://www.codewars.com/" target="_blank">Codewars website.
 
-⚡ In year 2012 I did C# and XNA framework application called "A project of an application for computer support for the teaching process of the F-16C/D aircraft." as my master thesis.
-
-
-Unfortunately, I cannot share it with you because it contains sensitive data. However, I can show you a few things from it:
+⚡ In year 2012 I did C# and XNA framework application called "A project of an application for computer support for the teaching process of the F-16C/D aircraft." as my master thesis. Unfortunately, I cannot share it with you because it contains sensitive data. However, I can show you a few things from it:
 <table>
         <tr>
            <td><img src="https://github.com/VillageR88/VillageR88/blob/main/projekt_pic1.jpg"></a></td>
