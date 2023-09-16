@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning computer programming (HTML, CSS, JS, TS) and I'm being mentored by my <a href="https://github.com/karniv00l/" target="_blank">friend.
+🌱 I’m currently learning computer programming (HTML, CSS, JS + React, TS) and I'm being mentored by my <a href="https://github.com/karniv00l/" target="_blank">friend.
 
 🌱 I’m also doing some C# kata at the <a href="https://www.codewars.com/" target="_blank">Codewars website.
 
