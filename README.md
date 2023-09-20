@@ -6,7 +6,9 @@
 
 
 ⚡How it started?<div></div>
-While studying at the Academy, I created various 3D projects in programs such as Solid Edge, 3ds Max, Photoshop, and later also Blender and Gimp. At that time, I was also very fascinated by computer games, so at some point I combined my ability to create 3D models and, using the understandable scripting language of the Men of War game, I created an add-on that added a new campaign and many new models. You can still see it online - Polish army mod 1939-1945.<div></div> In year 2012 I did C# and XNA framework application called "A project of an application for computer support for the teaching process of the F-16C/D aircraft." as my master thesis. Unfortunately, I cannot share it with you because it contains sensitive data. However, I can show you a few things from it:
+While attending the Academy, I worked on various 3D projects using software such as Solid Edge, 3ds Max, Photoshop, and later, Blender and Gimp. During that time, I was also deeply passionate about computer games. At a certain point, I combined my 3D modeling skills with my knowledge of the Men of War game's scripting language. This resulted in the creation of an add-on that introduced a new campaign and numerous new models. You can still find it online under the name 'Polish Army Mod 1939-1945.'
+
+In 2012, I developed an application using C# and the XNA framework as part of my master's thesis. The application was titled 'A Project for Computer Support in the Teaching Process of the F-16C/D Aircraft.' Unfortunately, I am unable to share it with you due to sensitive data contained within. However, I would be happy to showcase certain aspects of it:
 <table>
         <tr>
            <td><img src="https://github.com/VillageR88/VillageR88/blob/main/projekt_pic1.jpg"></td>
