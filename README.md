@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏻
 
 🌱 I’m currently learning computer programming (HTML, CSS, JS + React, TS) and I'm being mentored by my <a href="https://github.com/karniv00l/" target="_blank">friend.
 
