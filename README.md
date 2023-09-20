@@ -4,9 +4,9 @@
 
 🌱 Sometimes I’m also doing some C# kata at the <a href="https://www.codewars.com/" target="_blank">Codewars website.
 
+
 ⚡How it started?<div></div>
-Before year 2012, I made 3D models and add-ons for the Men of War computer game.
-In year 2012 I did C# and XNA framework application called "A project of an application for computer support for the teaching process of the F-16C/D aircraft." as my master thesis. Unfortunately, I cannot share it with you because it contains sensitive data. However, I can show you a few things from it:
+While studying at the Academy, I created various 3D projects in programs such as Solid Edge, 3ds Max, Photoshop, and later also Blender and Gimp. At that time, I was also very fascinated by computer games, so at some point I combined my ability to create 3D models and, using the understandable scripting language of the Men of War game, I created an add-on that added a new campaign and many new models. You can still see it online - Polish army mod 1939-1945.<div></div> In year 2012 I did C# and XNA framework application called "A project of an application for computer support for the teaching process of the F-16C/D aircraft." as my master thesis. Unfortunately, I cannot share it with you because it contains sensitive data. However, I can show you a few things from it:
 <table>
         <tr>
            <td><img src="https://github.com/VillageR88/VillageR88/blob/main/projekt_pic1.jpg"></td>
