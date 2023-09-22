@@ -1,4 +1,5 @@
 ### Hi there 👋🏻
+<a href="https://www.codewars.com/users/VillageR./" target="_blank"><img src="https://www.codewars.com/users/VillageR./badges/large" alt="CodeWars Badge"></a>
 
 🌱 I’m currently learning computer programming (HTML, CSS, JS + React, TS) and I'm being mentored by my <a href="https://github.com/karniv00l/" target="_blank">friend.
 
@@ -28,10 +29,6 @@ In 2012, I developed an application using C# and the XNA framework as part of my
         </tr>
     </table>
 
-### <a href="https://villager88.github.io/" target="_blank">My html repository</a>
-
-### My Codewars badge:
-  <a href="https://www.codewars.com/users/VillageR./" target="_blank"><img src="https://www.codewars.com/users/VillageR./badges/large" alt="CodeWars Badge"></a>
 
  <!--
 **VillageR88/VillageR88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
