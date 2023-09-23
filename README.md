@@ -1,10 +1,15 @@
 ### Hi there 👋🏻
 <a href="https://www.codewars.com/users/VillageR./" target="_blank"><img src="https://www.codewars.com/users/VillageR./badges/large" alt="CodeWars Badge"></a>
-
-🌱 I’m currently learning computer programming (HTML, CSS, JS + React, TS) and I'm being mentored by my <a href="https://github.com/karniv00l/" target="_blank">friend.</a>
-<br>Sometimes I'm also practicing C# and Python.</br>
-
-<div></div>
+<table>
+        <tr>
+          <td style="vertical-align: middle;">🌱</td>
+          <td>
+            <a>I’m currently learning computer programming (HTML, CSS, JS + React, TS) and I'm being mentored by my <a href="https://github.com/karniv00l/" target="_blank">friend.</a>
+                    <br><a>Sometimes I'm also practicing C# and Python.</a>
+            </td>
+            </tr>
+            </table>
+                    <div></div>
 ⚡How it started?
 <div></div>
 While studying at the academy, I worked on various 3D projects using software such as Solid Edge, 3ds Max, Photoshop, and later, Blender and Gimp. During that time, I was also deeply passionate about computer games. At a certain point, I combined my 3D modeling skills with my knowledge of the Men of War game's scripting language. This resulted in the creation of an add-on that introduced a new campaign and numerous new models. You can still find it online under the name 'Polish Army Mod 1939-1945.'
