@@ -11,7 +11,6 @@
   </tr>
 </table>
 
-
 <table>
   <tr>
     <td colspan="3">⚡How it started?</td>
@@ -28,20 +27,22 @@
     <td><img src="https://github.com/VillageR88/VillageR88/blob/main/projekt_pic2.jpg"></td>
     <td><img src="https://github.com/VillageR88/VillageR88/blob/main/projekt_pic3.jpg"></td>
   </tr>
+  <tr>
+    <td colspan="3">
+      <div><a>Click on image to see animation</a></div>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/VillageR88/VillageR88/blob/main/AGM-65.gif" target="_blank"><img src="https://github.com/VillageR88/VillageR88/blob/main/AGM-65.jpg" alt="Animowany obrazek"></a></td>
+    <td><a href="https://github.com/VillageR88/VillageR88/blob/main/GBU 12.gif" target="_blank"><img src="https://github.com/VillageR88/VillageR88/blob/main/GBU 12.jpg" alt="Animowany obrazek"></a></td>
+    <td><a href="https://github.com/VillageR88/VillageR88/blob/main/GBU 24.gif" target="_blank"><img src="https://github.com/VillageR88/VillageR88/blob/main/GBU 24.jpg" alt="Animowany obrazek"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/VillageR88/VillageR88/blob/main/AIM-120.gif" target="_blank"><img src="https://github.com/VillageR88/VillageR88/blob/main/AIM-120.jpg" alt="Animowany obrazek"></a></td>
+    <td><a href="https://github.com/VillageR88/VillageR88/blob/main/AIM-9.gif" target="_blank"><img src="https://github.com/VillageR88/VillageR88/blob/main/AIM-9.jpg" alt="Animowany obrazek"></a></td>
+  </tr>
 </table>
 
-   <table>
-      <div><a>Click on image to see animation</a></div>
-        <tr>
-           <td><a href="https://github.com/VillageR88/VillageR88/blob/main/AGM-65.gif" target="_blank"><img src="https://github.com/VillageR88/VillageR88/blob/main/AGM-65.jpg" alt="Animowany obrazek"></td>
-           <td><a href="https://github.com/VillageR88/VillageR88/blob/main/GBU 12.gif" target="_blank"><img src="https://github.com/VillageR88/VillageR88/blob/main/GBU 12.jpg" alt="Animowany obrazek"></td>
-           <td><a href="https://github.com/VillageR88/VillageR88/blob/main/GBU 24.gif" target="_blank"><img src="https://github.com/VillageR88/VillageR88/blob/main/GBU 24.jpg" alt="Animowany obrazek"></td>
-        </tr>
-        <tr>
-           <td><a href="https://github.com/VillageR88/VillageR88/blob/main/AIM-120.gif" target="_blank"><img src="https://github.com/VillageR88/VillageR88/blob/main/AIM-120.jpg" alt="Animowany obrazek"></a></td>
-           <td><a href="https://github.com/VillageR88/VillageR88/blob/main/AIM-9.gif" target="_blank"><img src="https://github.com/VillageR88/VillageR88/blob/main/AIM-9.jpg" alt="Animowany obrazek"></a></td>
-        </tr>
-    </table>
 
 
  <!--
