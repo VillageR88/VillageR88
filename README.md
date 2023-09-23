@@ -1,11 +1,12 @@
 ### Hi there 👋🏻
 <a href="https://www.codewars.com/users/VillageR./" target="_blank"><img src="https://www.codewars.com/users/VillageR./badges/large" alt="CodeWars Badge"></a>
 
-🌱 I’m currently learning computer programming (HTML, CSS, JS + React, TS) and I'm being mentored by my <a href="https://github.com/karniv00l/" target="_blank">friend.
+🌱 I’m currently learning computer programming (HTML, CSS, JS + React, TS) and I'm being mentored by my <a href="https://github.com/karniv00l/" target="_blank">friend.</a>
+<br>Sometimes I'm also practicing C# and Python.</br>
 
-🌱 Sometimes I’m also doing some C# kata at the <a href="https://www.codewars.com/" target="_blank">Codewars website.
-
-⚡How it started?<div></div>
+<div></div>
+⚡How it started?
+<div></div>
 While studying at the academy, I worked on various 3D projects using software such as Solid Edge, 3ds Max, Photoshop, and later, Blender and Gimp. During that time, I was also deeply passionate about computer games. At a certain point, I combined my 3D modeling skills with my knowledge of the Men of War game's scripting language. This resulted in the creation of an add-on that introduced a new campaign and numerous new models. You can still find it online under the name 'Polish Army Mod 1939-1945.'
 
 In 2012, I developed an application using C# and the XNA framework as part of my master's thesis. The application was titled 'A Project for Computer Support in the Teaching Process of the F-16C/D Aircraft.' Unfortunately, I am unable to share it with you due to sensitive data contained within. However, I can showcase certain aspects of it:
