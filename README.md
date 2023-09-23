@@ -2,7 +2,7 @@
 <a href="https://www.codewars.com/users/VillageR./" target="_blank"><img src="https://www.codewars.com/users/VillageR./badges/large" alt="CodeWars Badge"></a>
 <table>
   <tr>
-  <td style="vertical-align: middle;">🌱 What I'm doing now?</td>
+    <td colspan="2" style="color: red;">🌱 What I'm doing now?</td>
   </tr>
   <tr>
     <td>
