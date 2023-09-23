@@ -1,5 +1,5 @@
 ### Hi there 👋🏻
-<table style="width: 100% !important;">
+<table>
   <tr>
     <td>🧙 My Codewars badge</a></td>
     </tr>
