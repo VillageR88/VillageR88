@@ -1,8 +1,12 @@
 ### Hi there 👋🏻
 <table>
   <tr>
-    <td>🧙 My Codewars badge></a></td>
+    <td>🧙 My Codewars badge</a></td>
+    </tr>
+    <tr>
+    <td><a href="https://www.codewars.com/users/VillageR./" rel="nofollow"><img src="https://camo.githubusercontent.com/968cddcc97104ceaf683f5d3f106a8b7435291f17bcb0c2e7883db5daa31281e/68747470733a2f2f7777772e636f6465776172732e636f6d2f75736572732f56696c6c616765522e2f6261646765732f6c61726765" alt="CodeWars Badge" data-canonical-src="https://www.codewars.com/users/VillageR./badges/large" style="max-width: 100%;"></a></td></tbody></table>
   </tr>
+  
   </table>
 <table>
   <tr>
