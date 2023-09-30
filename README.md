@@ -1,46 +1,49 @@
 ### Hi there 👋🏻
+
 <table>
   <tr>
-  <td><strong>🌱 What I'm doing now?</strong></td>  </tr>
+    <td><strong>🌱 What I'm doing now?</strong></td>
+  </tr>
   <tr>
     <td>
         <a>I’m currently learning computer programming (HTML, CSS, JS + React, TS) and I'm being mentored by my <a href="https://github.com/karniv00l/" target="_blank">friend.</a>
-                    <br><a>Sometimes I'm also practicing C# and Python.</a>
+        <br><a>Sometimes I'm also practicing C# and Python.</a>
     </td>
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td colspan="3"><strong>⚡How it started?</strong></td>
-  </tr>
-  <tr>
-    <td colspan="3">
-      <a>While studying at the <a href="https://www.wojsko-polskie.pl/law/en/">academy</a>, I worked on various 3D projects using software such as Solid Edge, 3ds Max, Photoshop, and later, Blender and Gimp. During that time, I was also deeply passionate about computer games. At a certain point, I combined my 3D modeling skills with my knowledge of the Men of War game's scripting language. This resulted in the creation of an add-on that introduced a new campaign and numerous new models. You can still find it online under the name 'Polish Army Mod 1939-1945.'</a><br>
-      <br>
-      <a>In 2012, I developed an application using C# and the XNA framework as part of my master's thesis. The application was titled 'A Project for Computer Support in the Teaching Process of the F-16C/D Aircraft.' Unfortunately, I am unable to share it with you due to sensitive data contained within. However, I can showcase certain aspects of it:</a>
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/VillageR88/VillageR88/blob/main/projekt_pic1.jpg"></td>
-    <td><img src="https://github.com/VillageR88/VillageR88/blob/main/projekt_pic2.jpg"></td>
-    <td><img src="https://github.com/VillageR88/VillageR88/blob/main/projekt_pic3.jpg"></td>
-  </tr>
-  <tr>
-    <td colspan="3">
-      <div><a>Click on image to see animation</a></div>
-    </td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/VillageR88/VillageR88/blob/main/AGM-65.gif" target="_blank"><img src="https://github.com/VillageR88/VillageR88/blob/main/AGM-65.jpg" alt="Animowany obrazek"></a></td>
-    <td><a href="https://github.com/VillageR88/VillageR88/blob/main/GBU 12.gif" target="_blank"><img src="https://github.com/VillageR88/VillageR88/blob/main/GBU 12.jpg" alt="Animowany obrazek"></a></td>
-    <td><a href="https://github.com/VillageR88/VillageR88/blob/main/GBU 24.gif" target="_blank"><img src="https://github.com/VillageR88/VillageR88/blob/main/GBU 24.jpg" alt="Animowany obrazek"></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/VillageR88/VillageR88/blob/main/AIM-120.gif" target="_blank"><img src="https://github.com/VillageR88/VillageR88/blob/main/AIM-120.jpg" alt="Animowany obrazek"></a></td>
-    <td><a href="https://github.com/VillageR88/VillageR88/blob/main/AIM-9.gif" target="_blank"><img src="https://github.com/VillageR88/VillageR88/blob/main/AIM-9.jpg" alt="Animowany obrazek"></a></td>
-  </tr>
-</table>
+<details>
+  <summary><strong>⚡ How it started?</strong></summary>
+  <table>
+    <tr>
+      <td colspan="3">
+        <a>While studying at the <a href="https://www.wojsko-polskie.pl/law/en/">academy</a>, I worked on various 3D projects using software such as Solid Edge, 3ds Max, Photoshop, and later, Blender and Gimp. During that time, I was also deeply passionate about computer games. At a certain point, I combined my 3D modeling skills with my knowledge of the Men of War game's scripting language. This resulted in the creation of an add-on that introduced a new campaign and numerous new models. You can still find it online under the name 'Polish Army Mod 1939-1945.'</a><br>
+        <br>
+        <a>In 2012, I developed an application using C# and the XNA framework as part of my master's thesis. The application was titled 'A Project for Computer Support in the Teaching Process of the F-16C/D Aircraft.' Unfortunately, I am unable to share it with you due to sensitive data contained within. However, I can showcase certain aspects of it:</a>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/VillageR88/VillageR88/blob/main/projekt_pic1.jpg"></td>
+      <td><img src="https://github.com/VillageR88/VillageR88/blob/main/projekt_pic2.jpg"></td>
+      <td><img src="https://github.com/VillageR88/VillageR88/blob/main/projekt_pic3.jpg"></td>
+    </tr>
+    <tr>
+      <td colspan="3">
+        <div><a>Click on the images to see animation</a></div>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/VillageR88/VillageR88/blob/main/AGM-65.gif" target="_blank"><img src="https://github.com/VillageR88/VillageR88/blob/main/AGM-65.jpg" alt="Animated image"></a></td>
+      <td><a href="https://github.com/VillageR88/VillageR88/blob/main/GBU 12.gif" target="_blank"><img src="https://github.com/VillageR88/VillageR88/blob/main/GBU 12.jpg" alt="Animated image"></a></td>
+      <td><a href="https://github.com/VillageR88/VillageR88/blob/main/GBU 24.gif" target="_blank"><img src="https://github.com/VillageR88/VillageR88/blob/main/GBU 24.jpg" alt="Animated image"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/VillageR88/VillageR88/blob/main/AIM-120.gif" target="_blank"><img src="https://github.com/VillageR88/VillageR88/blob/main/AIM-120.jpg" alt="Animated image"></a></td>
+      <td><a href="https://github.com/VillageR88/VillageR88/blob/main/AIM-9.gif" target="_blank"><img src="https://github.com/VillageR88/VillageR88/blob/main/AIM-9.jpg" alt="Animated image"></a></td>
+    </tr>
+  </table>
+</details>
+
 
 <table>
   <tr>
