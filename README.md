@@ -1,9 +1,8 @@
 ### Hi there 👋🏻
 
+<details>
+  <summary><strong>🌱 What I'm doing now?</strong></summary>
 <table>
-  <tr>
-    <td><strong>🌱 What I'm doing now?</strong></td>
-  </tr>
   <tr>
     <td>
         <a>I’m currently learning computer programming (HTML, CSS, JS + React, TS) and I'm being mentored by my <a href="https://github.com/karniv00l/" target="_blank">friend.</a>
@@ -12,6 +11,7 @@
     </td>
   </tr>
 </table>
+</details>
 
 <details>
   <summary><strong>⚡ How it started?</strong></summary>
