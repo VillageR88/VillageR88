@@ -45,7 +45,7 @@
 </details>
 
 <details>
-  <summary><strong>📜 My badges</strong></summary>
+  <summary><strong>🏆 My Coding Site Ranks</strong></summary>
   <table>
     <td><strong>🧙 My Codewars badge</strong></td>
     <tr>
