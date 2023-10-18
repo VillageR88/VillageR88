@@ -1,4 +1,4 @@
-### Hi there 👋🏻
+### Hi there 👋
 
 <details>
   <summary><strong>🌱 What I'm doing now?</strong></summary>
