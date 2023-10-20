@@ -52,7 +52,9 @@
      </table>
    <table>
     <td><strong>Frontend Mentor</strong></td>
- 
+  <tr>
+      <td><a href="https://worker-frontendmentor-svg-generator.villager88pl.workers.dev" rel="nofollow"><img src="https://worker-frontendmentor-svg-generator.villager88pl.workers.dev" alt="Frontend Mentor Badge" data-canonical-src="https://worker-frontendmentor-svg-generator.villager88pl.workers.dev" style="max-width: 100%;"></a></td>
+    </tr>  </table>
 </details>
 
 
