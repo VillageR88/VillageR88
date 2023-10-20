@@ -38,10 +38,7 @@
       <td><a href="https://github.com/VillageR88/VillageR88/blob/main/GBU 12.gif" target="_blank"><img src="https://github.com/VillageR88/VillageR88/blob/main/GBU 12.jpg" alt="Animated image"></a></td>
       <td><a href="https://github.com/VillageR88/VillageR88/blob/main/GBU 24.gif" target="_blank"><img src="https://github.com/VillageR88/VillageR88/blob/main/GBU 24.jpg" alt="Animated image"></a></td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/VillageR88/VillageR88/blob/main/AIM-120.gif" target="_blank"><img src="https://github.com/VillageR88/VillageR88/blob/main/AIM-120.jpg" alt="Animated image"></a></td>
-      <td><a href="https://github.com/VillageR88/VillageR88/blob/main/AIM-9.gif" target="_blank"><img src="https://github.com/VillageR88/VillageR88/blob/main/AIM-9.jpg" alt="Animated image"></a></td>
-    </tr>
+   
   </table>
 </details>
 
