@@ -24,9 +24,9 @@
       </td>
     </tr>
     <tr>
-      <td><img src="https://github.com/VillageR88/VillageR88/blob/main/projekt_pic1.jpg"></td>
+      <td><img src="https://github.com/VillageR88/VillageR88/blob/main/projekt_pic_5.png"></td>
       <td><img src="https://github.com/VillageR88/VillageR88/blob/main/projekt_pic2.jpg"></td>
-      <td><img src="https://github.com/VillageR88/VillageR88/blob/main/projekt_pic3.jpg"></td>
+      <td><img src="https://github.com/VillageR88/VillageR88/blob/main/projekt_pic_4.png"></td>
     </tr>
     <tr>
       <td colspan="3">
