@@ -20,7 +20,7 @@
       <td colspan="3">
         <a>While studying at the <a href="https://www.wojsko-polskie.pl/law/en/">academy</a>, I worked on various 3D projects using software such as Solid Edge, 3ds Max, Photoshop, and later, Blender and Gimp. During that time, I was also deeply passionate about computer games. At a certain point, I combined my 3D modeling skills with my knowledge of the Men of War game's scripting language. This resulted in the creation of an add-on that introduced a new campaign and numerous new models. You can still find it online under the name 'Polish Army Mod 1939-1945.'</a><br>
         <br>
-        <a>In 2012, I developed an application using C# and the XNA framework as part of my master's thesis. The application was titled 'A Project for Computer Support in the Teaching Process of the F-16C/D Aircraft.' Unfortunately, I am unable to share it with you due to sensitive data contained within. However, I can showcase certain aspects of it:</a>
+        <a>In 2012, I developed an application using C# and the XNA framework as part of my master's thesis. The application was titled 'A Project for computer support in the teaching process of the F-16C/D aircraft.' Unfortunately, I am unable to share it with you due to sensitive data contained within. However, I can showcase certain aspects of it:</a>
       </td>
     </tr>
     <tr>
