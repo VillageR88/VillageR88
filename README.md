@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td>
-        <a>I’m currently learning computer programming (HTML, CSS, JS + React, TS) and I'm being mentored by my <a href="https://github.com/karniv00l/" target="_blank">friend.</a>
+        <a>I’m currently learning frontend development (HTML, CSS, JS, TS, React, Tailwind) and I'm being mentored by my <a href="https://github.com/karniv00l/" target="_blank">friend.</a>
         <br>
         <a>I also have some experience in Java, PHP, C# and Python.</a>
         <br>
