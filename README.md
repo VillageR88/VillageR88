@@ -7,7 +7,9 @@
     <td>
         <a>I’m currently learning computer programming (HTML, CSS, JS + React, TS) and I'm being mentored by my <a href="https://github.com/karniv00l/" target="_blank">friend.</a>
         <br>
-        <a> I also have some experience in Java, PHP, C# and Python.</a>
+        <a>I also have some experience in Java, PHP, C# and Python.</a>
+        <br>
+        <a>Recently I've begun delving into backend development.</a>
     </td>
   </tr>
 </table>
