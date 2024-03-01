@@ -5,11 +5,13 @@
 <table>
   <tr>
     <td>
-        <a>I’m currently learning frontend development (HTML, CSS, JS, TS, React, Tailwind) and I'm being mentored by my <a href="https://github.com/karniv00l/" target="_blank">friend.</a>
+        <a>I'm being mentored by my <a href="https://github.com/karniv00l/" target="_blank">friend.</a>
+        <br>
+        <a>I use for frontend: HTML, CSS, JS, TS, Next.js, React, Tailwind.</a>
+        <br>
+        <a>I use for backend: SQL, PostgreSQL.</a>
         <br>
         <a>I also have some experience in Java, PHP, C# and Python.</a>
-        <br>
-        <a>Recently I've begun delving into backend development.</a>
     </td>
   </tr>
 </table>
