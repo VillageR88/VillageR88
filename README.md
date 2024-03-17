@@ -1,20 +1,18 @@
 ### Hi there 👋
 
 <details>
-  <summary><strong>🌱 What I'm doing now?</strong></summary>
-<table>
+  <summary><strong>🧙 My Coding Site Ranks</strong></summary>
+  <table>
+    <td><strong>Codewars</strong></td>
+    <tr>
+      <td><a href="https://www.codewars.com/users/VillageR./" rel="nofollow"><img src="https://www.codewars.com/users/VillageR./badges/large" alt="CodeWars Badge" data-canonical-src="https://www.codewars.com/users/VillageR./badges/large" style="max-width: 100%;"></a></td>
+    </tr>
+     </table>
+   <table>
+    <td><strong>Frontend Mentor</strong></td>
   <tr>
-    <td>
-        <a>I'm being mentored by my <a href="https://github.com/karniv00l/" target="_blank">friend.</a>
-        <br>
-        <a>I use for frontend: HTML, CSS, JS, TS, Next.js, React, Tailwind.</a>
-        <br>
-        <a>I use for backend: SQL, PostgreSQL.</a>
-        <br>
-        <a>I also have some experience in Java, PHP, C# and Python.</a>
-    </td>
-  </tr>
-</table>
+      <td><a href="https://www.frontendmentor.io/profile/VillageR88" rel="nofollow"><img src="https://worker-frontendmentor-svg-generator.villager88pl.workers.dev?t=123456" alt="Frontend Mentor Badge" data-canonical-src="https://worker-frontendmentor-svg-generator.villager88pl.workers.dev" style="max-width: 100%;"></a></td>
+    </tr>  </table>
 </details>
 
 <details>
@@ -44,21 +42,6 @@
     </tr>
    
   </table>
-</details>
-
-<details>
-  <summary><strong>🧙 My Coding Site Ranks</strong></summary>
-  <table>
-    <td><strong>Codewars</strong></td>
-    <tr>
-      <td><a href="https://www.codewars.com/users/VillageR./" rel="nofollow"><img src="https://www.codewars.com/users/VillageR./badges/large" alt="CodeWars Badge" data-canonical-src="https://www.codewars.com/users/VillageR./badges/large" style="max-width: 100%;"></a></td>
-    </tr>
-     </table>
-   <table>
-    <td><strong>Frontend Mentor</strong></td>
-  <tr>
-      <td><a href="https://www.frontendmentor.io/profile/VillageR88" rel="nofollow"><img src="https://worker-frontendmentor-svg-generator.villager88pl.workers.dev?t=123456" alt="Frontend Mentor Badge" data-canonical-src="https://worker-frontendmentor-svg-generator.villager88pl.workers.dev" style="max-width: 100%;"></a></td>
-    </tr>  </table>
 </details>
 
  <!--
