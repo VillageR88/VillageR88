@@ -1,4 +1,4 @@
-### Hi there 👋<br></br>
+### Hi there 👋
 
 <details>
   <summary><strong>🧙 My Coding Site Ranks<br></br></strong></summary>
