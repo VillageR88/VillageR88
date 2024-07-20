@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <details>
-  <summary><strong>🧙 My Coding Site Ranks<br></br></strong></summary>
+  <summary><strong>🧙 My Coding Site Activity<br></br></strong></summary>
   <table>
     <td><strong>Codewars</strong></td>
     <tr>
