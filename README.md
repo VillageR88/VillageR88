@@ -2,7 +2,7 @@
 
 I am currently working on **CWrap**, a microframework for web developers and those learning web development. Its key features include:
 
-- 🔧 Low entry level, making it accessible for beginners
+- 👶 Low entry level, making it accessible for beginners
 - ✨ Automatic CSS generation
 - 🔍 Autocompletion for faster coding
 - 👀 Preview-based manipulation for real-time feedback
