@@ -1,31 +1,8 @@
 ### Hi there 👋
 
-<details>
-  <summary><strong>🧙 My Coding Site Activity<br></br></strong></summary>
-  <table>
-    <td><strong>Codewars</strong></td>
-    <tr>
-      <td><a href="https://www.codewars.com/users/VillageR./" rel="nofollow"><img src="https://www.codewars.com/users/VillageR./badges/large" alt="CodeWars Badge" data-canonical-src="https://www.codewars.com/users/VillageR./badges/large" style="max-width: 100%;"></a></td>
-    </tr>
-     </table>
-   <table>
-    <td><strong>Frontend Mentor</strong></td>
-  <tr>
-      <td><a href="https://www.frontendmentor.io/profile/VillageR88" rel="nofollow"><img src="https://worker-frontendmentor-svg-generator.villager88pl.workers.dev?t=123456" alt="Frontend Mentor Badge" data-canonical-src="https://worker-frontendmentor-svg-generator.villager88pl.workers.dev" style="max-width: 100%;"></a></td>
-    </tr>  </table>
-</details>
+I am currently working on **CWrap**, a microframework for web developers and those learning web development. Its key features include:
 
- <!--
-**VillageR88/VillageR88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Automatic CSS generation
+- 🔧 Low entry level, making it accessible for beginners
+- 🔍 Autocompletion for faster coding
+- 👀 Preview-based manipulation for real-time feedback
