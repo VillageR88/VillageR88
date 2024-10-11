@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently working on **CWrap**, open microframework for web developers and those learning web development. Its key features include:
+I am currently working on [**CWrap**](https://github.com/VillageR88/cwrap-framework), open microframework for web developers and those learning web development. Its key features include:
 
 - 👶 Low entry level, making it accessible for beginners
 - ✨ Automatic CSS generation
